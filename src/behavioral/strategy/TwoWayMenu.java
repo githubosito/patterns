@@ -8,6 +8,7 @@ public class TwoWayMenu implements TwoWayMenuControl {
 
 	protected List<TwoWayMenu> items;
 
+	
 	@Override
 	public void openMenu() {
 		isActive = true;
