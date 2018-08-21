@@ -1,7 +1,0 @@
-Make a robot project witch shows a robot.
-	-use swing
-	-make the robot parts random
-	-change the parts by a specified time passed
-	-show more than one robot at the same time
-
-(patterns may involved: Builder, Factory, Absract Factory, Facade, Singleton, )

@@ -1,3 +1,0 @@
-Adott publikus metódusok egy halmaza, amelyet Button-okhoz szeretnék rendelni.
-	Hogyan lehet ezt automatizálni?
-	

@@ -1,7 +1,0 @@
-*.[oa]
-*.class
-*.classpath
-*.project
-.gitignore
-ToDo.txt
-questions.txt
